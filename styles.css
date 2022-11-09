@@ -1,5 +1,4 @@
 *{
-    border: 2px red solid;
 }
 body{
     font-size: 20px;
@@ -40,4 +39,7 @@ form{
     /* background-color: aliceblue; */
     width: 45rem;
     height: auto;
+}
+.equal{
+    margin-top: 5%;
 }
