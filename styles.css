@@ -1,0 +1,43 @@
+*{
+    border: 2px red solid;
+}
+body{
+    font-size: 20px;
+    background-color: rgb(17, 21, 27);
+    
+}
+.bg-dark{
+    
+    color: rgb(255, 255, 255);
+    font-family: poppins;
+}
+.block{
+    display: block;
+}
+#name{
+    width: 50em;
+    height: 4em;
+    border-radius: 15px;
+    border: none;
+}
+.flex{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+img{
+    width: 45rem;
+    border-radius: 56px;
+}
+.margin{
+    margin: 5rem;
+}
+
+.center{
+    justify-content: center;
+}
+form{
+    /* background-color: aliceblue; */
+    width: 45rem;
+    height: auto;
+}
